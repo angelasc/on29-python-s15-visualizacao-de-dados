@@ -2,9 +2,38 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Visualização de dados
 
-Turma Online On34 | Python | Semana 15 | 2024 | <a href="https://www.linkedin.com/in/mariana-vb-rezende/" target="_blank" rel="noopener noreferrer">Professora Mariana Rezende</a>
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 15 | 2024 | Professora Mariana Rezende
+
+Este repositório contém os exercícios desenvolvidos durante a **Semana 15** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+
+## 📌 Descrição
+Nesta semana, o foco foi na visualização de dados, com o objetivo de criar gráficos informativos e claros para facilitar a interpretação e comunicação dos insights extraídos durante as análises. Utilizamos as bibliotecas Matplotlib e Seaborn para criar gráficos que representassem diferentes aspectos dos dados analisados, como distribuições, correlações e tendências.
+
+## 🎯 Objetivos do projeto
+- Criar visualizações gráficas eficientes e claras.
+- Utilizar Matplotlib e Seaborn para gerar gráficos como histogramas, gráficos de dispersão, gráficos de barras, etc.
+- Apresentar dados de forma que facilite a comunicação de insights e padrões encontrados.
+- Aplicar o conceito de visualização de dados para transformar dados brutos em informações compreensíveis e valiosas.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+
+- main.py: Código principal onde as visualizações são criadas e configuradas.
+- data.csv: Arquivo de dados utilizado para a criação dos gráficos (caso aplicável).
+- requirements.txt: Arquivo contendo dependências necessárias para o projeto.
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem de programação utilizada para realizar as visualizações e manipulação de dados.
+- Matplotlib: Biblioteca para a criação de gráficos estáticos, como histogramas, gráficos de barras, etc.
+- Seaborn: Biblioteca baseada no Matplotlib para visualizações estatísticas avançadas e personalizadas.
+- Pandas: Biblioteca para manipulação e análise de dados.
+
+
+---
+
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
